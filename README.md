@@ -38,11 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Adithkp03/Adithkp03/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/adith-kp" target="_blank">
