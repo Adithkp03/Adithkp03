@@ -38,6 +38,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
+###
+
+<h2 align="left">Connect with me</h2>
+
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/adith-kp" target="_blank">
@@ -56,10 +61,10 @@
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adithkp03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<h2 align="left">My Stats</h2>
 
 ###
+
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Adithkp03&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+</div>
