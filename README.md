@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Second-year Information Technology student at Army Institute of Technology, Pune.</p>
+<p align="left">🎓 Third-year Information Technology student at Army Institute of Technology, Pune.</p>
 
 ###
 
